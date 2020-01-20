@@ -8,7 +8,7 @@ yum update&&yum install git -y
 
 下载文件
 ```
-git clone https://github.com/deepbwork/v2ray-whmcs-backend.git  
+git clone https://github.com/xcyjazz/v2ray-whmcs-backend.git  
 cd v2ray-whmcs-backend  
 chmod +x ./*.sh
 ```
